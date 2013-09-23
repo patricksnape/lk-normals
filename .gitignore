@@ -1,5 +1,8 @@
 *.py[cod]
 
+# PyCharm
+.idea/**
+
 # IPython
 .ipynb_checkpoints/**
 
